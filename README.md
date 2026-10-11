@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=soft&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=FURIOUS&fontSize=64&fontColor=e6edf3&animation=twinkling&desc=Cybersecurity%20%C2%B7%20Full-Stack%20Development%20%C2%B7%20AI%2FML&descSize=18&descColor=7ee0c3&descAlignY=72" width="100%" />
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3000&pause=1000&color=7EE0C3&center=true&vCenter=true&width=700&lines=MCA+Student+%40+Kristu+Jayanti+College;I+build+secure+full-stack+systems;I+break+things+to+learn+how+to+defend+them;Open+to+internships/job+in+Security+%26+Full-Stack" alt="Typing intro" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3000&pause=1000&color=7EE0C3&center=true&vCenter=true&width=700&lines=MCA+Student+%40+Kristu+Jayanti+University;I+build+secure+full-stack+systems;I+break+things+to+learn+how+to+defend+them;Open+to+internships/job+in+Security+%26+Full-Stack" alt="Typing intro" />
 </a>
 
 <br/>
